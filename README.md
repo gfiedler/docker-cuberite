@@ -1,2 +1,1 @@
-# docker-cuberite
-Cuberite server
+### Minecraft-compatible multiplayer game server
