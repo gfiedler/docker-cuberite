@@ -1,0 +1,2 @@
+# docker-cuberite
+Cuberite server
